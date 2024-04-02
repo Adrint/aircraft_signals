@@ -1,0 +1,14 @@
+ICM:  ssh an467298@login.icm.edu.pl
+fsig: ssh an467298@fsig-students.ocean.icm.edu.pl
+
+Dostęp do bazy danych:
+mongo --host 10.20.66.7 --username student --password student fsig-raw
+
+Użycie bazy danych
+> use fsig-raw;
+
+Wyświetlenie kolekcji w bazie danych
+> show collections;
+
+Wyświetlenie indexów dla kolekcji
+> db.rawFaSignals.getIndexes()
