@@ -1,4 +1,4 @@
-ICM:  ssh an467298@login.icm.edu.pl
+ICM:   ssh -oServerAliveInterval=3 an467298@login.icm.edu.pl
 fsig: ssh an467298@fsig-students.ocean.icm.edu.pl
 
 Dostęp do bazy danych:
