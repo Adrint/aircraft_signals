@@ -10,4 +10,4 @@ In the data folder:
 program data_processing.py - processing and modification of data.
 collision_flight_project.py - the main program
 
-In the folder report - the project report
+In the folder report - the project report (in Polish)
