@@ -1,12 +1,13 @@
-# W folderze bash:
-# 1: main_ident_flights.py - program do znalazienia kilku różnych lotów
-# 2: position_of_flight.py - znalezienie wykonanej trasy danych samolotów
+Program aims to find potential air traffic collisions based on 2018 database
+# In the bash folder:
+# 1: main_ident_flights.py - program to find several different flights
+# 2: position_of_flight.py - to find the executed route of the given planes
 
-# W folderze dane:
-# 1. Otrzymane oraz zmodyfikowane dane w celu analizy
-# 2. W folderze maps - otrzymana mapa jako wynik graficzny projektu
+# In the data folder:
+# 1. received and modified data for analysis.
+# 2. In the maps folder - the received map as a graphical result of the project
 
-# program data_processing.py - obróbka oraz modyfikacja danych
-# collision_flight_project.py - główny program
+# program data_processing.py - processing and modification of data.
+# collision_flight_project.py - the main program
 
-# W folderze sprawozdanie - sprawozdanie z projektu
+# In the folder report - the project report
